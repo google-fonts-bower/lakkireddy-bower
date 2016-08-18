@@ -1,0 +1,17 @@
+{
+    "name": "lakkireddy-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Appaji Ambarisha Darbha"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lakkireddy-bower.git"
+    },
+    "description": "Lakki Reddy font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
